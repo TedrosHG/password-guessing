@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">PassGuessing</string>
+    <string name="firstrule">
+        The main Goal of the game is to guess the password, you have to guess the numbers in their order.
+        The password will contain 4 numbers.
+    </string>
+    <string name="secondrule">
+        The numbers you tried will be displayed with their value of accuracy, the accuracy is measured using two
+        variables, namely CORRECT and POSITION. You win if you get 4 for correct and position.
+    </string>
+    <string name="correct">
+        ****** Correct: tells you how many of the numbers are found in the password,
+        like if password:4826 and your guess is 8613, then correct will be 2, which is 8 and 6.
+     </string>
+    <string name="position">
+        ****** Position: tells you how many of the correctly guessed numbers are in their exact location on the
+        password. In the above example position will be 0.
+     </string>
+    <string name="levelstatus">
+        LEVEL ONE TO LEVEL FOUR
+    </string>
+    <string name="levelstatus2">
+        LEVEL FIVE TO LEVEL SEVEN
+    </string>
+    <string name="thirdrule">
+        Starting from level one to level four, reputation of number and zero are not included in the password, your guess should be
+        free of zero and any reputation of number. 4580, 7297,and 0253 are examples that will be rejected.
+    </string>
+    <string name="forthdrule">
+        Starting from level five to the last level their is no restriction on how the password should be, it only need to be combination
+        of 4 numbers. <br>\n</br>
+        <br> -> At level five *** zero is allowed \n</br>
+        <br> -> At level six *** reputation is allowed \n</br>
+        <br> -> At level seven *** zero and reputation are allowed \n</br>
+    </string>
+    <string name="fifthhrule">
+        In the each level you will have fixed amount of life time: every time you try something the amount will decrease. It will
+        be displayed in the screen. For the first level you will have 15, for the second level 12, for the third level 9, and for
+        the last level 6.
+    </string>
+    <string name="bluetoothHeader">BLUETOOTH MULTI-PLAYER</string>
+    <string name="sixrule">
+        To play Multi Player, press the multi player Button. Then a Layout out with buttons will be displayed, press each one of them 
+        carefully.<br>\n</br>
+          BUTTON ON/OFF<br>\n</br>
+        This Button Will turn on the bluetooth on your device.<br>\n</br>
+          BUTTON ENABLE DISCOVERABLE <br>\n</br>
+        This Button Will turn on the visibility of the device for 300 seconds,
+        so as it could be discoverable by other devices.<br>\n</br>
+    </string>
+    <string name="sevenrule">
+        BUTTON DISCOVER <br>\n</br>
+        This button is used to find the available devices to pair with, Then it will display them in the below area.
+        You have to select the device you want to pair with from the list displayed.<br>\n</br>
+        BUTTON CREATE CONNECTION <br>\n</br>
+        After selecting the device to pair with, click this button to start the connection. If you did it right it will display
+        interface stating **Connecting**.<br>\n</br>
+        Then Enter the password and send it.<br>\n</br>
+        Then Press *Play* Button to start the game.<br>\n</br>
+    </string>
+    <string name="aboutUsOne">
+        This app was developed by section 3 students,
+        Everything in this app is completely free of cost!.It was developed
+        For those who enjoy Gaming as a means of entertainment.
+    </string>
+    <string name="aboutUsTwo">
+        We believe that any resource should be freely distributed to those who need it,
+        User should enjoy our game with out any cost, also he/she must feel free to integrate the code as they want.
+        That is why we make it open source.
+    </string>
+    <string name="aboutUsThree">
+        List of group members is listed below …<br>\n</br>
+        <br>->   NAME ************ID\n</br>
+        <br>-> TEDROS H/SLASSIE - R/1118/08 \n</br>
+        <br>-> TEKLIT FISEHA - R/1124/08\n</br>
+        <br>-> SURAFEL ZENEBE - R/1090/08 \n</br>
+    </string>
+</resources>

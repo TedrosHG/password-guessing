@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/boo"
+        android:title=""
+        app:showAsAction="ifRoom"
+        />
+    <group android:id="@+id/link"
+        android:visible="true"
+        android:enabled="true"
+        android:checkableBehavior="none">
+    <item android:id="@+id/share"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="share" />
+    <item android:id="@+id/aboutus"
+        app:showAsAction="ifRoom"
+        android:title="About Us"/>
+    <item android:id="@+id/howtoplay"
+          app:showAsAction="ifRoom"
+          android:title="How To Play"/>
+
+
+    </group>
+
+</menu>

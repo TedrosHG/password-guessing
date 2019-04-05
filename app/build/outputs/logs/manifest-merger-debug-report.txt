@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aba62a9e62bb1bc355d14473d469ae88\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\540f79ba90f0c9359425622b3aa63365\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7037f336720a36aacc0f8aa3ddbac7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\73ab9c84d7138b4755b37b1e29fb0e47\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a2dbcc7c9de7a123e37de3e2d24c20b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\04d5e6e46cfe8599652959254e6f9ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b8d518392d714255e8643180b387c69a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\779caa66aff62d04f1524728f974bb5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8e5e069d855e2ac0ba9cfcee22e24e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\093ed56408682b70e199e7235d0449db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\0dc914ac4fad21ac002e88ab55343c9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c20b5bb74fb28305b993cb42edccb7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\adffec28fbbe5919211a1c61edcc6901\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9925d89d558c0f4c07f247f728ea67aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2b8b5723a631c4600a30854b40c77a13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\120c2f82fe1c3a2d898cf336ace46154\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8ffe8ac1c15ca9421672c7332bbf826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7317e34e1dee9e3842f63d44bf3ff92b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b05aaa1b38e1652f02d21b0c1f42f70a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6859dbe01bd0f72a61f14651f31f4b91\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6038a3baedc64fbc6edfcf644db90d2f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\56347f8c313d2a415f3dff420d4af5cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b8173466f367f785f5b3d99034f05606\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\fc7fb63f3ee145b24854801a8864d93c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ec6f168e0bd7e8cf50fc3d9c5bf73f91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b8830302b407aeba7b900f944443f1d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0a5f23e6f0df4e0a008eedc41715276f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6ad820ddb0b93a2686f6da095fcc0011\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0ce58f1d95231f727bae58a78e573eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d669a5497955d276e73254a70612cb32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05a9fc4fd5d1c6961a3a2318f100c26e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:15:5-16:47
+	tools:ignore
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:18:5-40:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aba62a9e62bb1bc355d14473d469ae88\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aba62a9e62bb1bc355d14473d469ae88\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\73ab9c84d7138b4755b37b1e29fb0e47\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\73ab9c84d7138b4755b37b1e29fb0e47\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6859dbe01bd0f72a61f14651f31f4b91\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6859dbe01bd0f72a61f14651f31f4b91\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6038a3baedc64fbc6edfcf644db90d2f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6038a3baedc64fbc6edfcf644db90d2f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6859dbe01bd0f72a61f14651f31f4b91\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.semon.passguessing.MainActivity
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.semon.passguessing.GameZone
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.example.semon.passguessing.MultiPlayer
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:33:19-46
+activity#com.example.semon.passguessing.ResultPage
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:34:9-48
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:34:19-45
+activity#com.example.semon.passguessing.Rules
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:35:9-43
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:35:19-40
+activity#com.example.semon.passguessing.SinglePlayer
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:36:19-47
+activity#com.example.semon.passguessing.Winner
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:37:19-41
+activity#com.example.semon.passguessing.Bluetooth
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:38:9-47
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:38:19-44
+activity#com.example.semon.passguessing.AboutUs
+ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:39:9-45
+	android:name
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml:39:19-42
+uses-sdk
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aba62a9e62bb1bc355d14473d469ae88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aba62a9e62bb1bc355d14473d469ae88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\540f79ba90f0c9359425622b3aa63365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\540f79ba90f0c9359425622b3aa63365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7037f336720a36aacc0f8aa3ddbac7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7037f336720a36aacc0f8aa3ddbac7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\73ab9c84d7138b4755b37b1e29fb0e47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\73ab9c84d7138b4755b37b1e29fb0e47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a2dbcc7c9de7a123e37de3e2d24c20b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a2dbcc7c9de7a123e37de3e2d24c20b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\04d5e6e46cfe8599652959254e6f9ad9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\04d5e6e46cfe8599652959254e6f9ad9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b8d518392d714255e8643180b387c69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b8d518392d714255e8643180b387c69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\779caa66aff62d04f1524728f974bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\779caa66aff62d04f1524728f974bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8e5e069d855e2ac0ba9cfcee22e24e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8e5e069d855e2ac0ba9cfcee22e24e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\093ed56408682b70e199e7235d0449db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\093ed56408682b70e199e7235d0449db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\0dc914ac4fad21ac002e88ab55343c9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\0dc914ac4fad21ac002e88ab55343c9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c20b5bb74fb28305b993cb42edccb7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c20b5bb74fb28305b993cb42edccb7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\adffec28fbbe5919211a1c61edcc6901\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\adffec28fbbe5919211a1c61edcc6901\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9925d89d558c0f4c07f247f728ea67aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9925d89d558c0f4c07f247f728ea67aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2b8b5723a631c4600a30854b40c77a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2b8b5723a631c4600a30854b40c77a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\120c2f82fe1c3a2d898cf336ace46154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\120c2f82fe1c3a2d898cf336ace46154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8ffe8ac1c15ca9421672c7332bbf826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8ffe8ac1c15ca9421672c7332bbf826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7317e34e1dee9e3842f63d44bf3ff92b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7317e34e1dee9e3842f63d44bf3ff92b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b05aaa1b38e1652f02d21b0c1f42f70a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b05aaa1b38e1652f02d21b0c1f42f70a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6859dbe01bd0f72a61f14651f31f4b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6859dbe01bd0f72a61f14651f31f4b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6038a3baedc64fbc6edfcf644db90d2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6038a3baedc64fbc6edfcf644db90d2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\56347f8c313d2a415f3dff420d4af5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\56347f8c313d2a415f3dff420d4af5cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b8173466f367f785f5b3d99034f05606\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b8173466f367f785f5b3d99034f05606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\fc7fb63f3ee145b24854801a8864d93c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\fc7fb63f3ee145b24854801a8864d93c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ec6f168e0bd7e8cf50fc3d9c5bf73f91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ec6f168e0bd7e8cf50fc3d9c5bf73f91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b8830302b407aeba7b900f944443f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b8830302b407aeba7b900f944443f1d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0a5f23e6f0df4e0a008eedc41715276f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0a5f23e6f0df4e0a008eedc41715276f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6ad820ddb0b93a2686f6da095fcc0011\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6ad820ddb0b93a2686f6da095fcc0011\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0ce58f1d95231f727bae58a78e573eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0ce58f1d95231f727bae58a78e573eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d669a5497955d276e73254a70612cb32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d669a5497955d276e73254a70612cb32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05a9fc4fd5d1c6961a3a2318f100c26e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Semon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05a9fc4fd5d1c6961a3a2318f100c26e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Semon\AndroidStudioProjects\PassGuessing\app\src\main\AndroidManifest.xml

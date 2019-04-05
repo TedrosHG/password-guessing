@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gradient_background3"
+    tools:context="com.example.semon.passguessing.Bluetooth">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="20dp" />
+            <Button
+                android:text="ON/OFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background2"
+                android:id="@+id/btnONOFF"/>
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="5dp" />
+            <Button
+                android:text="Enable Discoverable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnDiscoverable_on_off"
+                android:background="@drawable/button_background"
+                android:onClick="btnEnableDisable_Discoverable"/>
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="5dp" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnFindUnpairedDevices"
+                android:text="Discover"
+                android:background="@drawable/button_background2"
+                android:onClick="btnDiscover"/>
+            <ListView
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:id="@+id/lvNewDevices"/>
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnStartConnection"
+                android:background="@drawable/button_background"
+                android:text="Start Connection"/>
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="5dp" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/editText"
+                    android:layout_width="180dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Enter Password Here"
+                    android:inputType="number" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SEND"
+                    android:id="@+id/btnSend"
+                    android:background="@drawable/button_background2"/>
+            </LinearLayout>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PLAY"
+                android:id="@+id/btnPlay"
+                android:background="@drawable/button_background2"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
